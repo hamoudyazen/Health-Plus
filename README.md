@@ -1,4 +1,3 @@
-![doctor-book-appointment](https://github.com/hamoudyazen/Health-Plus/assets/99902159/5b8de9d3-9594-47e3-9d3f-c9cbab6bdeb0)# Health Plus
 
 Welcome to the Health Plus project repository! This React-powered website is designed with the goal of delivering easily accessible and tailored healthcare services to its users. Through this platform, users can seamlessly connect with experienced doctors, arrange appointments, and receive expert medical guidance.
 
